@@ -1,0 +1,6 @@
+{
+  "name": "Noticias en Vivo",
+  "description": "Aplicación móvil de noticias online y de última hora en vivo potenciada por IA y búsquedas actualizadas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
